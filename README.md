@@ -20,7 +20,7 @@ My background bridges high-scale systems engineering (serving tens of millions o
 * **Large-Scale Systems Provenance:** Automated Linux administration across 230+ servers carrying 100+ TB of warm data (Bertina).
 
 ### 🛠️ Featured Systems
-* **Argus**: Source-grounded LLM news intelligence pipeline with deterministic ingestion, audit telemetry, and 219 automated tests.
+* **Argus**: Source-grounded LLM news intelligence pipeline with deterministic ingestion, audit telemetry, and 777 automated tests across 70 test files, plus browser-level E2E validation.
 * **LOCUS**: Adversarial evaluation harness for tool-using AI agents, isolating shortcut behaviors through fail-closed testing (85/85 tests passed).
 * **Polarix**: High-throughput financial telemetry & feature pipeline engineered with DuckDB, Polars, and Parquet.
 * **LLM Gateway**: Multi-provider serving layer with LiteLLM, intelligent routing, automated fallback, and request latency telemetry.
